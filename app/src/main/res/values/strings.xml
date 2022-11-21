@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tittle">PRAKTIKUM MDP MODUL ANDROID 1</string>
+    <string name="reg_tittle">REGISTRASI DATA</string>
+    <string name="user">username</string>
+    <string name="password">password</string>
+    <string name="login">masuk</string>
+    <string name="register">register</string>
+    <string name="logout">logout</string>
+    <string name="header">Selamat datang di Praktikum MDP 2022</string>
+    <string name="name">Muhammad Ilham</string>
+    <string name="description">Ga cukup. Lanjut part 2 minggu depan.</string>
+</resources>
